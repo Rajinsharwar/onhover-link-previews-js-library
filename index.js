@@ -7,10 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var previewHTML = cachedPreviews[link];
       showPreviewElement(previewHTML, linkElement, topPosition);
     } else {
-      var mshotsURL =
-        "https://s0.wp.com/mshots/v1/" +
-        encodeURIComponent(link) +
-        "?w=300&r=2"; // Replace with your mshots CDN URL
+      var mshotsURL = "https://s0.wp.com/mshots/v1/" + encodeURIComponent(link);
       var previewHTML =
         '<div class="on-hover-link-prev"><img src="' +
         mshotsURL +
