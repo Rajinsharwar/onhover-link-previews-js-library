@@ -1,0 +1,26 @@
+{
+  "name": "onhover-link-previews",
+  "version": "1.0.0",
+  "description": "A JS library to show screenshot previews of webpages when mouse is hovered on Links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajinsharwar/onhover-link-previews-js-library.git"
+  },
+  "keywords": [
+    "link",
+    "previews",
+    "onhover",
+    "previews",
+    "screenshot"
+  ],
+  "author": "Rajin Sharwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajinsharwar/onhover-link-previews-js-library/issues"
+  },
+  "homepage": "https://github.com/Rajinsharwar/onhover-link-previews-js-library#readme"
+}
