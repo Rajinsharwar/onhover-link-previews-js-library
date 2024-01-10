@@ -1,6 +1,6 @@
 {
   "name": "onhover-link-previews",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A JS library to show screenshot previews of webpages when mouse is hovered on Links.",
   "main": "index.js",
   "scripts": {
