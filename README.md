@@ -2,7 +2,7 @@
 
 ## Description
 
-OnHover Link Preview is a lightweight JavaScript library that allows you to display image previews of links when hovered over. It's designed to be easy to use and highly customizable. The preview is fetched using the WordPress.com MShots service.
+OnHover Link Preview is a lightweight JavaScript library (< 885 Bytes when loaded using CDN) that allows you to display image previews of links when hovered over. It's designed to be easy to use and highly customizable. The preview is fetched using the WordPress.com MShots service.
 
 ## Installation
 
@@ -19,7 +19,7 @@ To use OnHover Link Preview JS Library, follow these steps:
 ### 1. Include the library in your project:
 
 ```html
-<script src="node_modules/onhover-link-preview/dist/onhover-link-preview.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/onhover-link-previews/index.min.js"></script>
 ```
 
 ### 2. Add the "onhover-link-preview" class to the links you want to enable the preview for:
